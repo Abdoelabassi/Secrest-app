@@ -5,6 +5,9 @@ this version uses local database and version2  will be deployed soon.
 
 #Features:
 Authentication: local session passport.js
+
 EJS Templates
+
 Mongoose
+
 much more to come ...
